@@ -65,6 +65,7 @@
 "PHOCKHEADS.STEVEAOKI":"https://i.imgur.com/8gneXkE.gif",
 "PHOCKHEADS.XCOPY":"https://i.imgur.com/DMgtvYN.gif",
 "PHOCKHEADS.LORDGLEN":"https://i.imgur.com/BcnJZpi.gif",
+
 "PHOCKS":"https://i.imgur.com/LQg12IQ.jpg",
 "PHOCKS.MARIO":"https://i.imgur.com/strblhm.jpg",
 "PHOCKS.LUIGI":"https://i.imgur.com/uh5Mvzr.jpg",
@@ -75,5 +76,12 @@
 "PHOCKS.SUPERMAN":"https://i.imgur.com/HaVpc2v.jpg",
 "PHOCKS.GANDHI":"https://i.imgur.com/Dt30R8W.jpg",
 "PHOCKS.HODLONAUT":"https://i.imgur.com/C5cmQ8U.jpg",
-"PHOCKS.ZORRO":"https://i.imgur.com/3Wgwr3y.jpg"
+"PHOCKS.ZORRO":"https://i.imgur.com/3Wgwr3y.jpg",
+  
+"NOPHOCKGIVEN":"https://i.imgur.com/kS9dnTu.png",
+"NOPHOCKGIVEN.FYRE":"https://i.imgur.com/0mFzCz0.png",
+"NOPHOCKGIVEN.KIMJONGPHOCK":"https://i.imgur.com/nFlmN4E.png"
+  
+  
+  
 }
