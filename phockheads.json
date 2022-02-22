@@ -83,6 +83,8 @@
 "PHOCKS.QUEEN":"https://i.imgur.com/AukQo12.jpg",
 "PHOCKS.TUTANKHAMUN":"https://i.imgur.com/RAYrwR1.jpg",
 "PHOCKS.NAPOLEON":"https://i.imgur.com/NSUm0UK.jpg",
+"PHOCKS.MONALISA":"https://i.imgur.com/CTSs9PM.jpg",
+"PHOCKS.EINSTEIN":"https://i.imgur.com/Xq2A8iM.jpg",
 
 "PHOCKART":"https://pzt5qhhjygohgwc3wmfqsl4pjihkrloetcigoozasyhkihfmrq7q.arweave.net/fmfYHOnBnHNYW7MLCS-PSg6orcSYkGc7IJYOpBysjD8/PHOCKART.png",
 "PHOCKART.DORSEY":"https://7v5leq3ncegopc5vv4o3j4zp3mp6kxojtehvgvxe3pqjyvz5xvxq.arweave.net/_XqyQ20RDOeLta8dtPMv2x_lXcmZD1NW5NvgnFc9vW8/phockheads_dorsey_mic.png",
@@ -159,6 +161,16 @@
 "PEPEPHOCKS.PEPEMARLEY":"https://arweave.net/lY49ZyOv3ag4qXP78xQ1lQoA0iAqyfkRvRI8WVd4uRg/MARLEY.gif",
 "PEPEPHOCKS.PEPA":"https://arweave.net/xE4k0EszsAYWXsW81St0zU-EP8tmiFvsGccEiU76oeI/pepa.gif",
 "PEPEPHOCKS.FATHERPEPE":"https://arweave.net/IY4p5Aw4-t8aUIb9EsrtAJRNFUW3ajNA1BQXy_kIwMY/nope.png",
+"PEPEPHOCKS.REEEEEEE":"https://arweave.net/weZj2XDdq0FfGTN7Df2yaLGaQY6xOdBYVQogM_m7BOM/reeeeee.gif",
+"PEPEPHOCKS.TROLLFACE":"https://arweave.net/nrR0-Y0aOUXME4SlHe5eChbZvsWiLJK1lhpsO1_K9BA/troll%20face.png",
+"PEPEPHOCKS.PROPELLERBEANIE":"https://arweave.net/_q0eACHSPFa3IT-r4KJRgSLcHxb_CJ6mAcxNpC-XhVk/kidpepe.gif",
+"PEPEPHOCKS.PEPEHOODIE":"https://arweave.net/sLqbrWqda622_9p2JDAB42EgYZ-helx7V0rg5Hp0J8Y/hood%20pepe.png",
+"PEPEPHOCKS.MEMEMAGIC":"https://arweave.net/nt5E1AIcZQboI53jMUey6rQ6rheFhDCri1NmeHE3BW4/MEME%20MAGIC.png",
+"PEPEPHOCKS.HOMERPEPE":"https://arweave.net/m7DnkLgP6PoaKfWXsYF2EpKqZa5E-FABsOz4Cz_UsKs/HOMERPEPE.gif",
+"PEPEPHOCKS.PEPALISA":"https://arweave.net/uN3ISN3_ZxS_ComZ_m1zzdMzOlUgIA1dyQ8McWy-JGE/pepalisa.png",
+"PEPEPHOCKS.CLOWNPEPE":"https://arweave.net/irv-u_1hrWoDgevM0nNxpAqlgL_i7mLbdNQuj7Uz1aQ/clown-pepe.gif",
+"PEPEPHOCKS.PEPEBOY":"https://arweave.net/EZ5ebgyFddx0Fskx5htP-nMCo9tc4CCpZ54P-sa5WOk/pepeboy.png",
+"PEPEPHOCKS.HAIRPEPE":"https://arweave.net/0wHSpo8nU1Uv8uwUupsZkU5NT2mFTnjYdJVeta_rOcU/HAIRPEPE2.png",
 
 "PHOCKGUARDS":"https://i.imgur.com/jsqk6fk.gif",
 "PHOCKGUARDS.STAR":"https://i.imgur.com/O9NHWZV.png",
@@ -168,7 +180,11 @@
 "PHOCKGUARDS.ROCK":"https://i.imgur.com/WVRs9Jq.png",
 "PHOCKGUARDS.THOR":"https://i.imgur.com/vvZEC0Q.gif",
 "PHOCKGUARDS.THAN":"https://i.imgur.com/bHm34u2.gif",
-"PHOCKGUARDS.MANT":"https://i.imgur.com/AH23cNF.png",
+"PHOCKGUARDS.MANT":"https://i.imgur.com/kx9xD2H.png",
+"PHOCKGUARDS.YOND":"https://i.imgur.com/3woxLUY.gif",
+"PHOCKGUARDS.COSM":"https://i.imgur.com/wpOozxn.png",
+"PHOCKGUARDS.EGO":"https://i.imgur.com/hITb5Us.gif",
+"PHOCKGUARDS.RONA":"https://i.imgur.com/ZbZ35tK.png",
 
 "PHOCKBANGERS":"https://i.imgur.com/xwI9CK9.gif",
 "PHOCKBANGERS.MIKBANGERS":"https://i.imgur.com/4drZuQG.png",
@@ -182,6 +198,8 @@
 
 "PHOCKSBOX":"https://arweave.net/Y_Ptd4JAKhuZMUqbbvOQnbGzbrYfRKayvZbvgfgsUqo",
 "PHOCKSBOX.KING":"https://arweave.net/zpV4l1oulIyu72n3ePCL7MLOlhkihDHF7ex7MId0TdI",
+"PHOCKSBOX.QUEEN":"https://arweave.net/TkGaaOKsT_8ZAJF9rOfB3r2D8GUUQ5d3bW_amgSkR64",
+"PHOCKSBOX.TUX":"https://arweave.net/uwx9IrgmHlWw1e-4sIcsV-U8VU1qH1HwLckC12jLcJg",
 
 "PHOCKVILLAIN":"https://i.imgur.com/DfhIrtq.png",
 "PHOCKVILLAIN.CROSSBONES":"https://i.imgur.com/rCAgIYj.png",
@@ -194,5 +212,14 @@
 "PHOCKVILLAIN.SCARECROW":"https://i.imgur.com/WHa3CXM.png",
 "PHOCKVILLAIN.THANOS":"https://i.imgur.com/jwkejQr.png",
 "PHOCKVILLAIN.TWOFACE":"https://i.imgur.com/DyMAohP.png",
-"PHOCKVILLAIN.VENOM":"https://i.imgur.com/OUfLrUX.png"
+"PHOCKVILLAIN.VENOM":"https://i.imgur.com/OUfLrUX.png",
+
+"KIDPHOCKS":"https://i.imgur.com/mpYDUxp.gif",
+"KIDPHOCKS.MASKONE":"https://i.imgur.com/vHYzwNv.gif",
+"KIDPHOCKS.MASKTWO":"https://i.imgur.com/Z08RBeF.png",
+"KIDPHOCKS.MASKTHREE":"https://i.imgur.com/afrARFw.png",
+"KIDPHOCKS.MASKFOUR":"https://i.imgur.com/FSZCzE8.png",
+"KIDPHOCKS.KEVIN":"https://i.imgur.com/w7gjkp4.png",
+"KIDPHOCKS.STUART":"https://i.imgur.com/Z1JzXm4.png",
+"KIDPHOCKS.GADGET":"https://i.imgur.com/MaVDI4U.gif"
 }
